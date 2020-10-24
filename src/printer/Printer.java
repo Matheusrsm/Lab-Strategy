@@ -16,7 +16,7 @@ public class Printer {
 		TypeNames typeName = TypeNames.values()[type - 1];
 		
 		Type printType = typeName.getType();
-		String formatedText = printType.print(text);
+		String formatedText = printType.formatText(text);
 		System.out.println(formatedText);
 		input.close();
 	}

@@ -2,7 +2,7 @@ package printer.type;
 
 public class Lowercase implements Type {
 
-	public String print(String text) {
+	public String formatText(String text) {
 		return text.toLowerCase();
 	}
 }
