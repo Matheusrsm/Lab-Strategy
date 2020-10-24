@@ -1,4 +1,4 @@
-package printer;
+package printer.type;
 
 public class Italic implements Print {
 

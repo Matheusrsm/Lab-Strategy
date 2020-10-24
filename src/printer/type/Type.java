@@ -1,4 +1,4 @@
-package printer;
+package printer.type;
 
 public enum Type {
 	

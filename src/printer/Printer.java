@@ -2,6 +2,9 @@ package printer;
 
 import java.util.Scanner;
 
+import printer.type.Print;
+import printer.type.Type;
+
 public class Printer {
 	
 	public static void main(String[] args) {
